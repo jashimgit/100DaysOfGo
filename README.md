@@ -34,5 +34,14 @@ Date: 29-09-2022
         variableName := value
 
         note: variable short syntax must be declaired with a value.
+
+        // variable declaration case
+
+        we can use Camel Case, Pascal case or Snake Case
+
+        myVariableName string = "John"
+        MyVariableName string = "John"
+        my_variable_name string = "John"
+        
     `
     4. constants
