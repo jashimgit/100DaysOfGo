@@ -42,6 +42,10 @@ Date: 29-09-2022
         myVariableName string = "John"
         MyVariableName string = "John"
         my_variable_name string = "John"
-        
+
     `
     4. constants
+
+    ` 
+    syntax: const constantName type = value
+    `
