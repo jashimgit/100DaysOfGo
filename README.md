@@ -55,4 +55,7 @@ Date: 29-09-2022
 
     ref: problem/problem1.go
 
+    problem2: Write a PHP program to check whether a given positive integer is a power of three.
+
+    ref: problem/problem2.go
     
