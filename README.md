@@ -49,3 +49,10 @@ Date: 29-09-2022
     ` 
     syntax: const constantName type = value
     `
+
+    problem 1: write a program to check whether a given possitive number integer
+    is a power of 2
+
+    ref: problem/problem1.go
+
+    
