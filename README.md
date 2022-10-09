@@ -58,4 +58,9 @@ Date: 29-09-2022
     problem2: Write a PHP program to check whether a given positive integer is a power of three.
 
     ref: problem/problem2.go
-    
+
+
+    Write a PHP program to check whether an integer is the power of another integer. Go to the editor
+    Input : 16, 2
+    Output : 16 is power of 2
+    Example: For x = 16 and y = 2 the answer is "true", and for x = 12 and y = 2 "false"
